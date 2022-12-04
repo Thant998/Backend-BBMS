@@ -44,8 +44,7 @@
 ### ==== Software And Tools Required ====
 - MySQL
 - Eclipse [Enterprise Edition]
-- Java [JDK 8+]
-- Tomcat v8.0+
+- Java
 - Apache Maven
 
 #### "Suggestions and project Improvements are Invited!"

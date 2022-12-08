@@ -11,15 +11,15 @@
 
 
 <span style="color:blue">**Users Have Following Access for this BBMS site:-**</span>
-- Create New Account or Register.
-- Login.
--  Create Workspaces.
--  Create Boards.
--  Invite members to workspace.
--  Create custom cards and add tasks.
--  Can drag and drop tasks.
--  Assign members to tasks.
--  Create activities and set due date.
+- Create New Account or Register
+- Login
+-  Create Workspaces
+-  Create Boards
+-  Invite members to workspace
+-  Create custom cards and add tasks
+-  Can drag and drop tasks
+-  Assign members to tasks
+-  Create activities and set due date
 
 ### Technologies used:-
 1. Front-End Development:

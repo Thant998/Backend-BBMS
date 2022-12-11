@@ -45,8 +45,7 @@ public class AttachedController {
 //		att.setName(dto.getFiles().getOriginalFilename());
 //		att.setResource(dto.getFiles().getBytes());
 //		att.setDeleteStatus(false);
-//		attachedService.saveat(att);				
-//	}
+//		attachedService.saveat(att);
 	
 	
 	

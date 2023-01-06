@@ -79,13 +79,7 @@ public class BoardController
 //		System.out.println(boardId);
 //	}
 	
-	
-	//show recent view
-//	@GetMapping(value="portal/boards/showRecentView/")
-//	public List<BoardDTO> showRecentView()
-//	{
-//		return boardService.recendViewBoard();
-//	}
+
 	
 	
 	//show one board

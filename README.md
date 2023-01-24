@@ -1,6 +1,6 @@
 # Bulletin Board Management System Website Using Java and Angular
 
-<span style="color:blue">**This Website is built for following purpose:-**</span>
+<span style="color:blue">**This Website is built for following purpose:**</span>
 - Plan user’s week in advance for an organization
 - Complete tasks and events when user finishes them.
 - Create tasks in the waiting list and schedule them later.
